@@ -1,0 +1,3 @@
+Este proyecto está aún en pañales, hay que ajustar el tamaño de las huellas de calor, estilos de interfaz y mapa, contraseñas para usuarios, filtros por especies o fechas, etc...
+De momento únicamente almacena coordenadas, fecha y nombre de las especies avistadas.
+Para ello requerirá permisos de navegador para poder tomar coordenadas y fecha del equipo donde se esté ejecutando.
