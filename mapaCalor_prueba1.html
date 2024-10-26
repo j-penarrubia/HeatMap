@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Calor</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=TU_API_KEY_DE_GOOGLE_MAPS"></script>
+    <script src="heatmap.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Mapa de Calor</h1>
+        <div id="map"></div>
+        <div class="filter-panel">
+            <label for="dateRange">Rango de Fechas:</label>
+            <input type="date" id="startDate"> - <input type="date" id="endDate">
+            <button onclick="applyFilters()">Aplicar Filtros</button>
+        </div>
+    </div>
+    
+</body>
+</html>

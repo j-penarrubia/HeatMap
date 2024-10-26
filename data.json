@@ -1,0 +1,42 @@
+[
+    {
+        "animalType": "Canguro",
+        "time": "2024-10-26T14:56:48.883Z",
+        "coordinates": {
+            "latitude": 38.9839107,
+            "longitude": -1.8605006
+        }
+    },
+    {
+        "animalType": "Mapache",
+        "time": "2024-10-26T14:58:46.042Z",
+        "coordinates": {
+            "latitude": 38.6884,
+            "longitude": -1.4878
+        }
+    },
+    {
+        "animalType": "Suricato",
+        "time": "2024-10-26T14:59:19.770Z",
+        "coordinates": {
+            "latitude": 38.8376,
+            "longitude": -1.8284
+        }
+    },
+    {
+        "animalType": "Avejonejo",
+        "time": "2024-10-26T14:59:26.898Z",
+        "coordinates": {
+            "latitude": 38.9550,
+            "longitude": -1.7662
+        }
+    },
+    {
+        "animalType": "Gamusino",
+        "time": "2024-10-26T14:59:34.242Z",
+        "coordinates": {
+            "latitude": 38.9165,
+            "longitude": -1.8825
+        }
+    }
+]
